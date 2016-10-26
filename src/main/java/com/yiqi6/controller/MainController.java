@@ -1,7 +1,4 @@
 package com.yiqi6.controller;
-/**
- * Created by Administrator on 2016-10-26.
- */
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

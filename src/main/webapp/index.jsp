@@ -1,6 +1,3 @@
-<html>
-<body>
-<h2>Hello World!</h2>
-<h2>看到了我，就说嘛配置成功！！</h2>
-</body>
-</html>
+<%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
+<%@include file="/WEB-INF/jsp/common/include.jsp" %>
+<c:redirect url="/index"/>
