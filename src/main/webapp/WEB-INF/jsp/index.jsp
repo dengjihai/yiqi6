@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>${ctx} 一起6_开源框架_后台管理问系统</title>
+    <title>一起6_开源框架_后台管理问系统</title>
     <meta name="description" content="一起6_开源框架_后台管理系统">
     <meta name="keywords" content="一起6_开源框架_后台管理系统">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +26,7 @@
 <header class="am-topbar am-topbar-inverse admin-header">
     <div class="am-topbar-brand">
         <a href="javascript:;" class="tpl-logo">
-            <img src="${ctx}/assets/img/logo.png" alt="">
+            <img src="${ctx}/assets/img/logo.png"height="70px" alt="">
         </a>
     </div>
     <div class="am-icon-list tpl-header-nav-hover-ico am-fl am-margin-right">
@@ -160,7 +160,7 @@
                     <li><a href="#"><span class="am-icon-power-off"></span> 退出</a></li>
                 </ul>
             </li>
-            <li><a href="###" class="tpl-header-list-link"><span
+            <li><a href="login.html" class="tpl-header-list-link"><span
                     class="am-icon-sign-out tpl-header-list-ico-out-size"></span></a></li>
         </ul>
     </div>
