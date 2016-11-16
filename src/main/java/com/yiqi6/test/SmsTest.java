@@ -14,9 +14,9 @@ public class SmsTest {
 
     static String SEND_SMS_URL="http://61.174.50.42:8080/sms/ylSend3.do";
 
-    static String SEND_SMS_ACCOUNT="161116_djh_egy";
+    static String SEND_SMS_ACCOUNT="";
 
-    static String SEND_SMS_PASS="586202";
+    static String SEND_SMS_PASS="";
 
 
 
